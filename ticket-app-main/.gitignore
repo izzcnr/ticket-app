@@ -1,0 +1,21 @@
+# Target / build directories
+/target/
+*.class
+
+# Log files
+*.log
+
+# Project / IDE settings
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Environment files containing sensitive data
+.env
