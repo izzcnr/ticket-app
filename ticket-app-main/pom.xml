@@ -12,7 +12,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.omerkoc</groupId>
+    <groupId>com.oruccinar</groupId>
     <artifactId>tickets</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>tickets</name>
